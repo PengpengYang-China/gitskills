@@ -1,2 +1,2 @@
 # gitskills
-create branch
+create master branch
